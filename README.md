@@ -1,2 +1,2 @@
-# sundragaon-prabashi-oikka-parishad
+# sundragaonprabashioikkaparishad
 Org
